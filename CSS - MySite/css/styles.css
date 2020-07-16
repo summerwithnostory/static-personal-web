@@ -1,0 +1,156 @@
+a{
+    color: #ea907a;
+}
+
+body {
+    margin : 0;
+    font-family: "Merriweather", sans-serif;
+    text-align: center;
+}
+
+h1{
+    font-size: 5.625rem;
+    margin-top: 3.125rem;
+    font-family: "Sacramento", sans-serif;
+    line-height: 2;
+    margin-bottom: 0;
+    color: #6886c5;
+}
+
+h2{
+    font-size: 2rem;
+    font-family: "Montserrat", serif;
+    font-weight: normal;
+    color: #6886c5;
+}
+
+h3{
+    font-family: "Montserrat", serif;
+    color: #ea907a;
+}
+
+hr{
+    margin: 5rem auto;
+    width: 5%;
+    border-style: dotted none none;
+    border-width: 0.3rem;
+    height: 0;
+    border-color: grey;
+}
+
+.attribution{
+    font-size: 0.4rem;
+    font-family: serif;
+    color: grey;
+    text-align: right;
+    margin: 20 auto 20 auto;
+}
+
+.avatar {
+  border-radius: 50%;
+  width: 18%;
+  margin-top: 3.125rem;
+}
+
+.blank{
+    height: 1rem;
+}
+
+.blockchain{
+    width: 25%;
+    float: left;
+    margin-right: 3.125rem;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left:10rem;
+}
+
+
+.bottom-container{
+    background-color: #feceab;
+
+}
+.copyright{
+    font-size: 0.8rem;
+    font-family: serif;
+    color: white;
+}
+
+.footer-link{
+    font-size: 0.8rem;
+    font-family: serif;
+    color: #e84a5f;
+    text-decoration: none;
+    margin-right: 1rem;
+}
+.footer-link:hover{
+    text-decoration: underline;
+}
+
+.myButton {
+    margin: 60px auto 80px auto;
+	box-shadow: 0 10px 14px -7px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:17px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #283966;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.middle-container{
+    background-color: #f6e7e6;
+
+}
+
+.p-center{
+    width: 50%;
+    margin: 0 auto 0 auto;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+
+.skill-row{
+    width: 50%;
+    margin: 5rem auto 5rem auto;
+    text-align: left;
+    line-height: 2;
+}
+
+
+
+.software{
+    width: 25%;
+    float: right;
+    margin-left: 3.125rem;
+}
+
+.top-cloud{
+    position: relative;
+    left: 15.625rem;
+}
+
+.top-container{
+    background-color: #fbf4f9;
+    position: relative;
+    padding-top: 6.25rem;
+}
